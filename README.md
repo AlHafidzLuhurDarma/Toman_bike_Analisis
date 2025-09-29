@@ -41,7 +41,7 @@ Analisa akan berdasarkan pada data yang disediakan oleh Toman Bike Share dengan 
 
 * **Performa Menyeluruh**: Total pendapatan meningkat dari $4,96 juta pada tahun 2021 menjadi $10,23 juta pada tahun 2022, sementara laba bersih naik dari $3,42 juta menjadi $7,03 juta. Meskipun biaya operasional hampir dua kali lipat, margin laba keseluruhan tetap kuat pada angka 45,35%.
 <p align="center">
- <img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/BI_1.png" width=600 height=400>
+ <img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/BI_1.png" width=800 height=700>
 </p>
 
 * **Periode Terbaik**: Banyak pelanggan Toman Bike Share yang menyewa sepeda tidak secara rutin, kemungkinan ini karena pengaruh cuaca dan musim.
@@ -57,12 +57,12 @@ Analisa akan berdasarkan pada data yang disediakan oleh Toman Bike Share dengan 
 *	**Aspek Eksternal**: Suhu yang berkisar diantara 0.6 sampai 07 memiliki pengaruh signifikan terhadapa jumlah pelanggan (biasa dan langganan). Dan tentu cuaca yang cerah menjadi favorit pelanggan dengan total jumlah pelanggan sebesar 2.338.173 selama periode 2021 -2022.
 
 <p align="center">
-<img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/laba_per_musim.png" width=500 height=400>
+<img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/laba_per_musim.png" width=800 height=600>
 </p>
 
 <p align="center">
-<img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/total_pengendara_per_suhu.png" width=300 height=300>
-<img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/total_pengendara_per_cuaca.png" width=300 height=300>
+<img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/total_pengendara_per_suhu.png" width=400 height=400>
+<img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/total_pengendara_per_cuaca.png" width=400 height=400>
 </p>
 
 ## Analisa Keputusan Menaikkan Harga Sewa
@@ -79,7 +79,7 @@ Kebijakan Toman Bike Share untuk menaikkan tarif terbukti tepat dan mengutungkan
    *	Pada tahun 2021, total pelanggan Registered tertinggi ada pada bulan Juli dengan 36.452 orang, dan pada tahun 2022 pelanggan tertinggi ada pada bulan Mei dengan total 44.235 orang.
 
 <p align="center">
- <img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/perbandingan_total_pengendara_registered_antar_tahun.png" width=400 height=300>
+ <img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/perbandingan_total_pengendara_registered_antar_tahun.png" width=600 height=500>
 </p>
 
 *	Dampak pada Laba: Pada tahun 2021, dengan harga sewa $3.99 Bulan Januari sampai Maret mengalami kenaikan konstan dan mencapai titik tertinggi dengan laba bersih $394K dan mengalami penurunan pada bulan Juli dengan laba bersih $388K. Sedangkan tahun 2022, ketika harga sewa dinaikkan menjadi 4.99 , kenaikan konstan justru mulai dari Januari hingga September dengan keuntungan tertinggi ada pada $750K dan menurun mulai pada Oktober dengan keuntungan 682K.
@@ -99,7 +99,7 @@ Machine learning dapat digunakan untuk memprediksi rata-rata jumlah pelanggan pa
 *	Model: Beberapa model regresi yang dicoba adalah Linear Regression, Random Forest, Decision Tree, Bagging, ExtraTrees, CatBoost, dll. Dan dari hasil training, model tree-based models (DecisionTree, RandomForest) memberikan akurasi lebih baik dibandingkan linear/SVR.
 
 <p align="center">
- <img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/ml.png" width=400 height=300>
+ <img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/ml.png" width=600 height=500>
 </p>
 *	Akurasi tertinggi di kisaran ~70% (RandomForest/DecisionTree). Dan model berhasil mengikuti pola musiman/harian (grafik prediksi mirip dengan tren data asli).
 
