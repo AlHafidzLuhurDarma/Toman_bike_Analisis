@@ -35,4 +35,4 @@ Analisa akan berdasarkan pada data yang disediakan oleh Toman Bike Share dengan 
 * Harga: Pada tahun 2021, harga sewa sepeda ada pada $3.99 per unit. Dan pada tahun 2022, harga sewa menjadi $4.99 per unit.
 
   
-![image](https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/Screenshot%202025-09-27%20183940.png=500x400)
+![image](https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/Screenshot%202025-09-27%20183940.png=576x463)
