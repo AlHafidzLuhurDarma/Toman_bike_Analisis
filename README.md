@@ -105,10 +105,14 @@ Machine learning dapat digunakan untuk memprediksi rata-rata jumlah pelanggan pa
 <p align="center">
  <img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/ml.png" width=600 height=500>
 </p>
-*	Akurasi tertinggi di kisaran ~70% (RandomForest/DecisionTree). Dan model berhasil mengikuti pola musiman/harian (grafik prediksi mirip dengan tren data asli).
 
+*	Akurasi tertinggi di kisaran ~70% (RandomForest/DecisionTree). Dan model berhasil mengikuti pola musiman/harian (grafik prediksi mirip dengan tren data asli).<br/>
+<br/>
 
-Kunjungi query SQL yang digunakan untuk analisis [SQL]()
-Lihat berbagai visualisasi data yang didapatkan selama analisa [Gambar]()
-Kunjungi program python yang digunakan untuk ML [Python]()
-Kunjungi Website saya untuk project lainnya [Situs]()
+Kunjungi query SQL yang digunakan untuk analisis: [SQL](https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/tree/main/sql).
+
+Lihat berbagai visualisasi data yang didapatkan selama analisa: [Gambar](https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/tree/main/visualization).
+
+Kunjungi program python yang digunakan untuk ML: [Python](https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/tree/main/python).
+
+Kunjungi Website saya untuk project lainnya: [Situs]()
