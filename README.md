@@ -1,4 +1,4 @@
-# aporan Performa Toman Bike Share (2021-2022)
+# Laporan Performa Toman Bike Share (2021-2022)
 Analisa pada perusahaan penyewaan sepeda Toman Bike Share dengan MySQL, Power BI, dan Excel. Serta membuat model Regresi menggunakan ML untuk forecasting pada data kompleks
 
 ## Daftar Isi:
