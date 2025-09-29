@@ -54,6 +54,10 @@ Analisa akan berdasarkan pada data yang disediakan oleh Toman Bike Share dengan 
   *	Total laba bersih yang didapat dari pelanggan Casual selama periode 2021 - 2022 adalah $1.9 Juta dengan puncaknya ada pada bulan Mei 2022 dengan laba bersih $151K .Pada tahun 2021, pelanggan Casual memberi keuntungan sebesar $680K. Dan pada tahun 2022  memberi keuntungan sebesar $1.28 Juta.
   *	Pelanggan Registered dan Casual mengalami jumlah kenaikan dari 2021 ke 2022 dengan rata-rata kenaikan jumlah pelanggan Registered 79.1% dan pelanggan Casual 65.3%.
 
+<p align="center">
+<img src="https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/blob/main/visualization/BI_2.png" width=800 height=700>
+</p>
+
 *	**Aspek Eksternal**: Suhu yang berkisar diantara 0.6 sampai 07 memiliki pengaruh signifikan terhadapa jumlah pelanggan (biasa dan langganan). Dan tentu cuaca yang cerah menjadi favorit pelanggan dengan total jumlah pelanggan sebesar 2.338.173 selama periode 2021 -2022.
 
 <p align="center">
@@ -103,3 +107,8 @@ Machine learning dapat digunakan untuk memprediksi rata-rata jumlah pelanggan pa
 </p>
 *	Akurasi tertinggi di kisaran ~70% (RandomForest/DecisionTree). Dan model berhasil mengikuti pola musiman/harian (grafik prediksi mirip dengan tren data asli).
 
+
+Kunjungi query SQL yang digunakan untuk analisis [SQL]()
+Lihat berbagai visualisasi data yang didapatkan selama analisa [Gambar]()
+Kunjungi program python yang digunakan untuk ML [Python]()
+Kunjungi Website saya untuk project lainnya [Situs]()
