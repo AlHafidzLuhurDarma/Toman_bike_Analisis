@@ -115,4 +115,4 @@ Lihat berbagai visualisasi data yang didapatkan selama analisa: [Gambar](https:/
 
 Kunjungi program python yang digunakan untuk ML: [Python](https://github.com/AlHafidzLuhurDarma/Toman_bike_Analisis/tree/main/python).
 
-Kunjungi Website saya untuk project lainnya: [Situs]()
+Kunjungi Website saya untuk project lainnya: [Situs](..)
